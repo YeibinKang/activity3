@@ -3,6 +3,6 @@ HIJK
 LMNOP
 QRS
 TUV
+WXY and Z
 Now I know my ABC's
-Nect time won't you sing with me
->>>>>>> alpha1
+Next time won't you sing with me
